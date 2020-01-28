@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Dialog_Add_Note.cpp
+  DIALOG_DELETE.cpp
+  DIALOG_EDITNOTE_TODO.cpp
+  Note.cpp
+  NoteDlg.cpp
+  TimeMessage.cpp
+  ToDoMessage.cpp
+  Generating Code...
+  Note.vcxproj -> E:\Programms\Bittorent\python\CPP-Project\Final Project\Note\Debug\Note.exe
